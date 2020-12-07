@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c27a33c-9774-447e-9c16-ff0d57d8810e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l4IBJETAQvopKKRKZM3IdmD0Za" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/KI" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="T:\YoutubeCode\Python\AdventOfCode" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="T:\YoutubeCode\Python\AdventOfCode" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.code6">
+    <configuration name="code" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="AdventOfCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Program Files\python3.8.1\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#1" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#1/code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="code2" type="PythonConfigurationType" factoryName="Python">
+      <module name="AdventOfCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Program Files\python3.8.1\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#2/code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="code3" type="PythonConfigurationType" factoryName="Python">
+      <module name="AdventOfCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Program Files\python3.8.1\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#3" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#3/code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="code4" type="PythonConfigurationType" factoryName="Python">
+      <module name="AdventOfCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Program Files\python3.8.1\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#4" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#4/Morpheus.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="code5" type="PythonConfigurationType" factoryName="Python">
+      <module name="AdventOfCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Program Files\python3.8.1\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#5" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#5/code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="code6" type="PythonConfigurationType" factoryName="Python">
+      <module name="AdventOfCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Program Files\python3.8.1\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#6" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#6/code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.code2" />
+      <item itemvalue="Python.code3" />
+      <item itemvalue="Python.code4" />
+      <item itemvalue="Python.code5" />
+      <item itemvalue="Python.code6" />
+      <item itemvalue="Python.code" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c27a33c-9774-447e-9c16-ff0d57d8810e" name="Default Changelist" comment="" />
+      <created>1606849799195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606849799195</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="258" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607268868479">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="414" y="258" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1200/0.0.1920.1200@0.0.1920.1200" timestamp="1607268868479" />
+    <state x="730" y="410" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607186561906">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="730" y="410" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1200/0.0.1920.1200@0.0.1920.1200" timestamp="1607186561906" />
+    <state x="740" y="358" key="FileChooserDialogImpl" timestamp="1607362961604">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="740" y="358" key="FileChooserDialogImpl/-1920.0.1920.1200/0.0.1920.1200@0.0.1920.1200" timestamp="1607362961604" />
+    <state width="1899" height="224" key="GridCell.Tab.0.bottom" timestamp="1607278638594">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1899" height="224" key="GridCell.Tab.0.bottom/-1920.0.1920.1200/0.0.1920.1200@0.0.1920.1200" timestamp="1607278638594" />
+    <state width="1899" height="224" key="GridCell.Tab.0.center" timestamp="1607278638594">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1899" height="224" key="GridCell.Tab.0.center/-1920.0.1920.1200/0.0.1920.1200@0.0.1920.1200" timestamp="1607278638594" />
+    <state width="1899" height="224" key="GridCell.Tab.0.left" timestamp="1607278638594">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1899" height="224" key="GridCell.Tab.0.left/-1920.0.1920.1200/0.0.1920.1200@0.0.1920.1200" timestamp="1607278638594" />
+    <state width="1899" height="224" key="GridCell.Tab.0.right" timestamp="1607278638594">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1899" height="224" key="GridCell.Tab.0.right/-1920.0.1920.1200/0.0.1920.1200@0.0.1920.1200" timestamp="1607278638594" />
+    <state x="463" y="245" key="SettingsEditor" timestamp="1606978604769">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="463" y="245" key="SettingsEditor/-1920.0.1920.1200/0.0.1920.1200@0.0.1920.1200" timestamp="1606978604769" />
+    <state x="668" y="427" key="com.intellij.ide.util.TipDialog" timestamp="1607280272762">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="668" y="427" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1200/0.0.1920.1200@0.0.1920.1200" timestamp="1607280272762" />
+    <state x="623" y="265" width="672" height="678" key="search.everywhere.popup" timestamp="1606978617239">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="623" y="265" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1200/0.0.1920.1200@0.0.1920.1200" timestamp="1606978617239" />
+  </component>
+</project>
